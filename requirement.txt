@@ -1,0 +1,6 @@
+openai
+rouge 
+bert_score
+pypdf
+faiss-cpu
+duckduckgo-search

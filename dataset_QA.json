@@ -1,0 +1,594 @@
+[
+    {
+
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What type of organism is commonly used in preparation of foods such as cheese and yogurt?",
+        "correct_answer":"Mesophiles grow best in moderate temperature, typically between 25\u00b0C and 40\u00b0C (77\u00b0F and 104\u00b0F). Mesophiles are often found living in or on the bodies of humans or other animals. The optimal growth temperature of many pathogenic mesophiles is 37\u00b0C (98\u00b0F), the normal human body temperature. Mesophilic organisms have important uses in food preparation, including cheese, yogurt, beer and wine. Final Answer: mesophilic organisms "
+    },
+
+    {
+ 
+       "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+       "question":"What phenomenon makes global winds blow northeast to southwest or the reverse in the northern hemisphere and northwest to southeast or the reverse in the southern hemisphere?",
+       "correct_answer":"Without Coriolis Effect the global winds would blow north to south or south to north. But Coriolis makes them blow northeast to southwest or the reverse in the Northern Hemisphere. The winds blow northwest to southeast or the reverse in the southern hemisphere.Final Answer :coriolis effect "
+    },
+
+    {
+    
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Changes from a less-ordered state to a more-ordered state (such as a liquid to a solid) are always what?",
+        "correct_answer":"Summary Changes of state are examples of phase changes, or phase transitions. All phase changes are accompanied by changes in the energy of a system. Changes from a more-ordered state to a less-ordered state (such as a liquid to a gas) areendothermic. Changes from a less-ordered state to a more-ordered state (such as a liquid to a solid) are always exothermic. The conversion of a solid to a liquid is called fusion (or melting). The energy required to melt 1 mol of a substance is its enthalpy of fusion (\u0394Hfus). The energy change required to vaporize 1 mol of a substance is the enthalpy of vaporization (\u0394Hvap). The direct conversion of a solid to a gas is sublimation. The amount of energy needed to sublime 1 mol of a substance is its enthalpy of sublimation (\u0394Hsub) and is the sum of the enthalpies of fusion and vaporization. Plots of the temperature of a substance versus heat added or versus heating time at a constant rate of heating are calledheating curves. Heating curves relate temperature changes to phase transitions. A superheated liquid, a liquid at a temperature and pressure at which it should be a gas, is not stable. A cooling curve is not exactly the reverse of the heating curve because many liquids do not freeze at the expected temperature. Instead, they form a supercooled liquid, a metastable liquid phase that exists below the normal melting point. Supercooled liquids usually crystallize on standing, or adding a seed crystal of the same or another substance can induce crystallization. Final Answer : exothermic "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What is the least dangerous radioactive decay?",
+        "correct_answer":"All radioactive decay is dangerous to living things, but alpha decay is the least dangerous. Final Answer: alpha decay. "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Kilauea in hawaii is the world\u2019s most continuously active volcano. very active volcanoes characteristically eject red-hot rocks and lava rather than this?",
+        "correct_answer":"Example 3.5 Calculating Projectile Motion: Hot Rock Projectile Kilauea in Hawaii is the world\u2019s most continuously active volcano. Very active volcanoes characteristically eject red-hot rocks and lava rather than smoke and ash. Suppose a large rock is ejected from the volcano with a speed of 25.0 m\/s and at an angle 35.0\u00ba above the horizontal, as shown in Figure 3.40. The rock strikes the side of the volcano at an altitude 20.0 m lower than its starting point. (a) Calculate the time it takes the rock to follow this path. (b) What are the magnitude and direction of the rock\u2019s velocity at impact?. Final Answer : smoke and ash "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"When a meteoroid reaches earth, what is the remaining object called?",
+        "correct_answer":"Meteoroids are smaller than asteroids, ranging from the size of boulders to the size of sand grains. When meteoroids enter Earth\u2019s atmosphere, they vaporize, creating a trail of glowing gas called a meteor. If any of the meteoroid reaches Earth, the remaining object is called a meteorite. Final Answer : meteorite"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What kind of a reaction occurs when a substance reacts quickly with oxygen?",
+        "correct_answer":"A combustion reaction occurs when a substance reacts quickly with oxygen (O 2 ). For example, in the Figure below , charcoal is combining with oxygen. Combustion is commonly called burning, and the substance that burns is usually referred to as fuel. The products of a complete combustion reaction include carbon dioxide (CO 2 ) and water vapor (H 2 O). The reaction typically gives off heat and light as well. The general equation for a complete combustion reaction is: Final answer : combustion reaction."
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Organisms categorized by what species descriptor demonstrate a version of allopatric speciation and have limited regions of overlap with one another, but where they overlap they interbreed successfully?.",
+        "correct_answer":"Ring species Ring species demonstrate a version of allopatric speciation. Imagine populations of the species A. Over the geographic range of A there exist a number of subpopulations. These subpopulations (A1 to A5) and (Aa to Ae) have limited regions of overlap with one another but where they overlap they interbreed successfully. But populations A5 and Ae no longer interbreed successfully \u2013 are these populations separate species?\u00a0 In this case, there is no clear-cut answer, but it is likely that in the link between the various populations will be broken and one or more species may form in the future. Consider the black bear Ursus americanus. Originally distributed across all of North America, its distribution is now much more fragmented. Isolated populations are free to adapt to their own particular environments and migration between populations is limited. Clearly the environment in Florida is different from that in Mexico, Alaska, or Newfoundland. Different environments will favor different adaptations. If, over time, these populations were to come back into contact with one another, they might or might not be able to interbreed successfully - reproductive isolation may occur and one species may become many. Final Answer : ring species"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Alpha emission is a type of what?",
+        "correct_answer":"One type of radioactivity is alpha emission. What is an alpha particle? What happens to an alpha particle after it is emitted from an unstable nucleus?. Final Answer : radioactivity"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What is the stored food in a seed called?",
+        "correct_answer":"The stored food in a seed is called endosperm . It nourishes the embryo until it can start making food on its own. Final Answer :endosperm "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Zinc is more easily oxidized than iron because zinc has a lower reduction potential. since zinc has a lower reduction potential, it is a more what?",
+        "correct_answer":"One way to keep iron from corroding is to keep it painted. The layer of paint prevents the water and oxygen necessary for rust formation from coming into contact with the iron. As long as the paint remains intact, the iron is protected from corrosion. Other strategies include alloying the iron with other metals. For example, stainless steel is mostly iron with a bit of chromium. The chromium tends to collect near the surface, where it forms an oxide layer that protects the iron. Zinc-plated or galvanized iron uses a different strategy. Zinc is more easily oxidized than iron because zinc has a lower reduction potential. Since zinc has a lower reduction potential, it is a more active metal. Thus, even if the zinc coating is scratched, the zinc will still oxidize before the iron. This suggests that this approach should work with other active metals. Another important way to protect metal is to make it the cathode in a galvanic cell. This is cathodic protection and can be used for metals other than just iron. For example, the rusting of underground iron storage tanks and pipes can be prevented or greatly reduced by connecting them to a more active metal such as zinc or magnesium (Figure 17.18). This is also used to protect the metal parts in water heaters. The more active metals (lower reduction potential) are called sacrificial anodes because as they get used up as they corrode (oxidize) at the anode. The metal being protected serves as the cathode, and so does not oxidize (corrode). When the anodes are properly monitored and periodically replaced, the useful lifetime of the iron storage tank can be greatly extended. Final Answer : active metal "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What is controlled by both genes and experiences in a given envionment?",
+        "correct_answer":"Most animal behaviors are controlled by both genes and experiences in a given environment. Final Answer :animal behaviors "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What tells you how much of the food you should eat to get the nutrients listed on the label?",
+        "correct_answer":"The information listed at the right of the label tells you what to look for. At the top of the label, look for the serving size. The serving size tells you how much of the food you should eat to get the nutrients listed on the label. A cup of food from the label pictured below is a serving. The calories in one serving are listed next. In this food, there are 250 calories per serving. Final Answer : serving size"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What are used to write nuclear equations for radioactive decay?",
+        "correct_answer":"Nuclear symbols are used to write nuclear equations for radioactive decay. Let\u2019s consider the example of the beta-minus decay of thorium-234 to protactinium-234. This reaction is represented by the equation:. Final Answer : nuclear symbols "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What is controlled by regulatory proteins that bind to regulatory elements on dna?",
+        "correct_answer":"Gene transcription is controlled by regulatory proteins that bind to regulatory elements on DNA. The proteins usually either activate or repress transcription. Final Answer : gene transcription"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Boron only occurs naturally in compounds with what element?",
+        "correct_answer":"Occurrence, Preparation, and Compounds of Boron and Silicon Boron constitutes less than 0.001% by weight of the earth\u2019s crust. In nature, it only occurs in compounds with oxygen. Boron is widely distributed in volcanic regions as boric acid, B(OH)3, and in dry lake regions, including the desert areas of California, as borates and salts of boron oxyacids, such as borax, Na2B4O7\u22c510H2O. Elemental boron is chemically inert at room temperature, reacting with only fluorine and oxygen to form boron trifluoride, BF3, and boric oxide, B2O3, respectively. At higher temperatures, boron reacts with all nonmetals, except tellurium and the noble gases, and with nearly all metals; it oxidizes to B2O3 when heated with concentrated nitric or sulfuric acid. Boron does not react with nonoxidizing acids. Many boron compounds react readily with water to give boric acid, B(OH)3 (sometimes written as H3BO3). Reduction of boric oxide with magnesium powder forms boron (95\u201398.5% pure) as a brown, amorphous powder: B 2 O 3(s) + 3Mg(s) \u27f6 2B(s) + 3MgO(s) An amorphous substance is a material that appears to be a solid, but does not have a long-range order like a true solid. Treatment with hydrochloric acid removes the magnesium oxide. Further purification of the boron begins with conversion of the impure boron into boron trichloride. The next step is to heat a mixture of boron trichloride and hydrogen: 1500 \u00b0C. Final answer : oxygen"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What organ systems link exchange surfaces with cells throughout the body?",
+        "correct_answer":"42.1 Circulatory systems link exchange surfaces with cells throughout the body. Final Answer :circulatory "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What occurs when the immune system attacks a harmless substance that enters the body from the outside?",
+        "correct_answer":"An allergy occurs when the immune system attacks a harmless substance that enters the body from the outside. A substance that causes an allergy is called an allergen. It is the immune system, not the allergen, that causes the symptoms of an allergy. Final answer : allergy"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Fertilization is the union of a sperm and egg, resulting in the formation of what?",
+        "correct_answer":"Fertilization is the union of a sperm and egg, resulting in the formation of a zygote. Final Answer : a zygote"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"The plants alternation between haploid and diploud generations allow it to do what?",
+        "correct_answer":"All plants have a characteristic life cycle that includes alternation of generations . Plants alternate between haploid and diploid generations. Alternation of generations allows for both asexual and sexual reproduction. Asexual reproduction with spores produces haploid individuals called gametophytes . Sexual reproduction with gametes and fertilization produces diploid individuals called sporophytes . A typical plant\u2019s life cycle is diagrammed in Figure below . Final answer : reproduce asexually and sexually"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Most of the chemical reactions in the body are facilitated by what?",
+        "correct_answer":"Enzymes are critical to the body\u2019s healthy functioning. They assist, for example, with the breakdown of food and its conversion to energy. In fact, most of the chemical reactions in the body are facilitated by enzymes. Final Answer :enzymes "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Cutting down on the use of chemical fertilizers and preserving wetlands are ways to prevent what \"unlivable\" regions in bodies of water?",
+        "correct_answer":"Cutting down on the use of chemical fertilizers is one way to prevent dead zones in bodies of water. Preserving wetlands is also important. Wetlands are habitats such as swamps, marshes, and bogs where the ground is soggy or covered with water much of the year. Wetlands slow down and filter runoff before it reaches bodies of water. Wetlands also provide breeding grounds for many different species of organisms. Final Answer : dead zones"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Which muscles allow your fingers to also make precise movements for actions?",
+        "correct_answer":"Intrinsic Muscles of the Hand The intrinsic muscles of the hand both originate and insert within it (Figure 11.28). These muscles allow your fingers to also make precise movements for actions, such as typing or writing. These muscles are divided into three groups. The thenar muscles are on the radial aspect of the palm. The hypothenar muscles are on the medial aspect of the palm, and the intermediate muscles are midpalmar. The thenar muscles include the abductor pollicis brevis, opponens pollicis, flexor pollicis brevis, and the adductor pollicis. These muscles form the thenar eminence, the rounded contour of the base of the thumb, and all act on the thumb. The movements of the thumb play an integral role in most precise movements of the hand. The hypothenar muscles include the abductor digiti minimi, flexor digiti minimi brevis, and the opponens digiti minimi. These muscles form the hypothenar eminence, the rounded contour of the little finger, and as such, they all act on the little finger. Finally, the intermediate muscles act on all the fingers and include the lumbrical, the palmar interossei, and the dorsal interossei. Final Answer : intrinsic muscles"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Testing what usually requires making observations or performing experiments?",
+        "correct_answer":"Usually, testing a hypothesis requires making observations or performing experiments. In this case, we will look into existing scientific literature to see if either of these hypotheses can be disproved, or if one or both can be supported by the data. Final Answer : hypothesis"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"This sharing of electrons produces what is known as a covalent bond. covalent bonds are ~20 to 50 times stronger than what?",
+        "correct_answer":"any other electron, they become a part of the molecule\u2019s electron system.204 This sharing of electrons produces what is known as a covalent bond. Covalent bonds are ~20 to 50 times stronger than van der Waals interactions. What exactly does that mean? Basically, it takes 20 to 50 times more energy to break a covalent bond compared to a van der Waals interaction. While the bonded form of atoms in a molecule is always more stable than the unbounded form, it may not be stable enough to withstand the energy delivered through collisions with neighboring molecules. Different bonds between different atoms in different molecular contexts differ in terms of bond stability; the bond energy refers the energy needed to break a particular bond. A molecule is stable if the bond energies associated with bonded atoms within the molecule are high enough to survive the energy delivered to the molecule through either collisions with neighboring molecules or the absorption of energy (light). When atoms form a covalent bond, their individual van der Waals surfaces merge to produce a new molecular van der Waals surface. There are a number of ways to draw molecules, but the spacefilling or van der Waals surface view is the most realistic (at least for our purposes). While realistic it can also be confusing, since it obscures the underlying molecular structure, that is, how the atoms in the molecule are linked together. This can be seen in this set of representations of the simple molecule 2methylpropane (\u2192).205 As molecules become larger, as is the case with many biologically important molecules, it can become impossible to appreciate their underlying organization based on a van der Waals surface representation. Because they form a new stable entity, it is not surprising (perhaps) that the properties of a molecule are quite distinct from, although certainly influenced by, the properties of the atoms from which they are composed. To a first order approximation, a molecule\u2019s properties are based on its shape, which is dictated by how the various atoms withjn the molecule are connected to one another. These geometries are imposed by each atom\u2019s underlying quantum mechanical properties and (particularly as molecules get larger, as they so often do in biological systems) the interactions between different parts of the molecule with one another. Some atoms, common to biological systems, such as hydrogen (H), can form only a single covalent bond. Others can make two (oxygen (O) and sulfur (S)), three (nitrogen (N)), four (carbon (C)), or five (phosphorus (P)) bonds. In addition to smaller molecules, biological systems contain a number of distinct types of extremely large molecules, composed of many thousands of atoms; these are known as macromolecules. Such macromolecules are not rigid; they can often fold back on themselves leading to intramolecular interactions. There are also interactions between molecules. The strength and specificity of these interactions can vary dramatically and even small changes in molecular structure (such as caused by mutations and allelic variations) can have dramatic effects. Final answer : van der waals interactions"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Water molecules move about continuously due to what type of energy?",
+        "correct_answer":"Water molecules move about continuously due to their kinetic energy. When a crystal of sodium chloride is placed into water, the water\u2019s molecules collide with the crystal lattice. Recall that the crystal lattice is composed of alternating positive and negative ions. Water is attracted to the sodium chloride crystal because water is polar and has both a positive and a negative end. The positively charged sodium ions in the crystal attract the oxygen end of the water molecules because they are partially negative. The negatively charged chloride ions in the crystal attract the hydrogen end of the water molecules because they are partially positive. The action of the polar water molecules takes the crystal lattice apart (see image below). Final answer : kinetic"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"A small scale version of what type of map displays individual rock units?",
+        "correct_answer":"Geologic maps display rock units and geologic features. A small scale map displays individual rock units while a large scale map shows geologic provinces. Final answer :geologic map "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What is defined as a change in the inherited traits of organisms over time?",
+        "correct_answer":"One idea is that evolution happens. Evolution is a change in the inherited traits of organisms over time. Living things have changed as descendants diverged from common ancestors in the past. Final answer:evolution"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What hormone, which is associated with luteinizing hormone and male sexuality, helps bring about physical changes in puberty?",
+        "correct_answer":"What causes puberty to begin? The hypothalamus in the brain \u201ctells\u201d the pituitary gland to secrete hormones that target the testes. The main pituitary hormone involved is luteinizing hormone (LH) . It stimulates the testes to secrete testosterone. Testosterone, in turn, promotes protein synthesis and growth. It brings about most of the physical changes of puberty, some of which are shown in Figure below . In addition to the changes shown below, during puberty male facial hair begins to grow, the shoulders broaden, and the male voice deepens. You can watch an animation of these and other changes that occur in boys during puberty at the Interactive Body link: http:\/\/www. bbc. co. uk\/science\/humanbody\/body\/interactives\/lifecycle\/teenagers\/. Final answer :testosterone "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Where do angiosperms produce seeds in flowers?",
+        "correct_answer":"Seed plants called angiosperms produce seeds in the ovaries of flowers. Final answer: ovaries"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"In order to create food, what do photosynthetic protists use?",
+        "correct_answer":"Photosynthetic protists use light energy to make food. They are major producers in aquatic ecosystems. Final answer :light energy "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What type of vertebrates are birds?",
+        "correct_answer":"Birds are endothermic tetrapod vertebrates. They are bipedal, which means they walk on two legs. Birds also lay amniotic eggs, and the eggs have hard, calcium carbonate shells. Although birds are the most recent class of vertebrates to evolve, they are now the most numerous vertebrates on Earth. Why have birds been so successful? What traits allowed them to increase and diversify so rapidly?. Final answer : endothermic tetrapod"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What type of ions do ionic compounds contain?",
+        "correct_answer":"An ionic compound contains positive and negative ions. Final answer :positive and negative "
+    },
+
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"The cells of all eukarya have a what?",
+        "correct_answer":"Some Eukarya are also single-celled, but many are multicellular. Some have a cell wall; others do not. However, the cells of all Eukarya have a nucleus and other organelles. Final answer : nucleus"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What type of plate boundaries produce huge mountain ranges in the ocean basin?",
+        "correct_answer":"Divergent plate boundaries produce huge mountain ranges under water in every ocean basin. Final answer : divergent"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Interstitial carbides are produced by the reaction of most transition metals at high temperatures with what element?",
+        "correct_answer":"temperatures with electropositive metals such as those of groups 1 and 2 and aluminum produces ionic carbides, which contain discrete metal cations and carbon anions. The identity of the anions depends on the size of the second element. For example, smaller elements such as beryllium and aluminum give methides such as Be2C and Al4C3, which formally contain the C4\u2212 ion derived from methane (CH4) by losing all four H atoms as protons. In contrast, larger metals such as sodium and calcium give carbides with stoichiometries of Na2C2 and CaC2. Because these carbides contain the C4\u2212 ion, which is derived from acetylene (HC\u2261CH) by losing both H atoms as protons, they are more properly called acetylides. As discussed in Chapter 21 \"Periodic Trends and the \", Section 21.4 \"The Alkaline Earth Metals (Group 2)\", reacting ionic carbides with dilute aqueous acid results in protonation of the anions to give the parent hydrocarbons: CH4 or C2H2. For many years, miners\u2019 lamps used the reaction of calcium carbide with water to produce a steady supply of acetylene, which was ignited to provide a portable lantern. The reaction of carbon with most transition metals at high temperatures produces interstitial carbides. Due to the less electropositive nature of the transition metals, these carbides contain covalent metal\u2013 carbon interactions, which result in different properties: most interstitial carbides are good conductors of electricity, have high melting points, and are among the hardest substances known. Interstitial carbides exhibit a variety of nominal compositions, and they are often nonstoichiometric compounds whose carbon content can vary over a wide range. Among the most important are tungsten carbide (WC), which is used industrially in high-speed cutting tools, and cementite (Fe3C), which is a major component of steel. Elements with an electronegativity similar to that of carbon form covalent carbides, such as silicon carbide (SiC; Equation 22.15) and boron carbide (B4C). These substances are extremely hard, have high melting points, and are chemically inert. For example, silicon carbide is highly resistant to chemical attack at temperatures as high as 1600\u00b0C. Because it also maintains its strength at high temperatures, silicon carbide is used in heating elements for electric furnaces and in variable-temperature resistors. Final answer : carbon "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Fungus-like protist saprobes play what role in a food chain and are specialized to absorb nutrients from nonliving organic matter, such as dead organisms or their wastes?",
+        "correct_answer":"Agents of Decomposition The fungus-like protist saprobes are specialized to absorb nutrients from nonliving organic matter, such as dead organisms or their wastes. For instance, many types of oomycetes grow on dead animals or algae. Saprobic protists have the essential function of returning inorganic nutrients to the soil and water. This process allows for new plant growth, which in turn generates sustenance for other organisms along the food chain. Indeed, without saprobe species, such as protists, fungi, and bacteria, life would cease to exist as all organic carbon became \u201ctied up\u201d in dead organisms. Final answer: decomposers "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What are the sites of protein synthesis or assembly?",
+        "correct_answer":"Ribosomes are small organelles and are the sites of protein synthesis (or assembly). They are made of ribosomal protein and ribosomal RNA, and are found in both eukaryotic and prokaryotic cells. Unlike other organelles, ribosomes are not surrounded by a membrane. Each ribosome has two parts, a large and a small subunit, as shown in Figure below . The subunits are attached to one another. Ribosomes can be found alone or in groups within the cytoplasm. Some ribosomes are attached to the endoplasmic reticulum (ER) (as shown in Figure below ), and others are attached to the nuclear envelope. Final answer : ribosomes "
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What must replicate in the cell cycle before meiosis i takes place?",
+        "correct_answer":"Meiosis I begins after DNA replicates during interphase of the cell cycle. In both meiosis I and meiosis II , cells go through the same four phases as mitosis - prophase, metaphase, anaphase and telophase. However, there are important differences between meiosis I and mitosis. The eight stages of meiosis are summarized below. The stages will be described for a human cell, starting with 46 chromosomes. Final answer: dna "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What phenomenon is primarily the result of plate tectonic motions?",
+        "correct_answer":"Earthquakes are primarily the result of plate tectonic motions. What type of stress would cause earthquakes at each of the three types of plate boundaries?. Final answer: earthquake"
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What is a group of neuron cell bodies in the periphery called?",
+        "correct_answer":"Ganglia A ganglion is a group of neuron cell bodies in the periphery. Ganglia can be categorized, for the most part, as either sensory ganglia or autonomic ganglia, referring to their primary functions. The most common type of sensory ganglion is a dorsal (posterior) root ganglion. These ganglia are the cell bodies of neurons with axons that are sensory endings in the periphery, such as in the skin, and that extend into the CNS through the dorsal nerve root. The ganglion is an enlargement of the nerve root. Under microscopic inspection, it can be seen to include the cell bodies of the neurons, as well as bundles of fibers that are the posterior nerve root (Figure 13.19). The cells of the dorsal root ganglion are unipolar cells, classifying them by shape. Also, the small round nuclei of satellite cells can be seen surrounding\u2014as if they were orbiting\u2014the neuron cell bodies. Final answer :ganglion "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Gases are most ideal at high temperature and what pressure?",
+        "correct_answer":"Under what conditions then, do gases behave least ideally? When a gas is put under high pressure, its molecules are forced closer together as the empty space between the particles is diminished. A decrease in the empty space means that the assumption that the volume of the particles themselves is negligible is less valid. When a gas is cooled, the decrease in kinetic energy of the particles causes them to slow down. If the particles are moving at slower speeds, the attractive forces between them are more prominent. Another way to view it is that continued cooling the gas will eventually turn it into a liquid and a liquid is certainly not an ideal gas anymore (see liquid nitrogen in the Figure below ). In summary, a real gas deviates most from an ideal gas at low temperatures and high pressures. Gases are most ideal at high temperature and low pressure. Final answer: low pressure"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Hard igneous rocks and easily dissolved sedimentary rocks respond very differently to what natural force?",
+        "correct_answer":"Each type of rock weathers in its own way. Certain types of rock are very resistant to weathering. Igneous rocks tend to weather slowly because they are hard. Water cannot easily penetrate them. Granite is a very stable igneous rock. Other types of rock are easily weathered because they dissolve easily in weak acids. Limestone is a sedimentary rock that dissolves easily. When softer rocks wear away, the more resistant rocks form ridges or hills. Final answer: weathering"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"A diet rich in calcium and what vitamin may reduce the risk of osteoporosis and related bone fractures?",
+        "correct_answer":"Skeletal system problems include osteoporosis, bone fractures, and ligament sprains. A diet rick in calcium and vitamin D may reduce the risk of osteoporosis and related bone fractures. Following safe practices may also reduce the risk of fractures as well as sprains. Final answer : vitamin d"
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"How many people die from air pollution each year?",
+        "correct_answer":"Air pollution is harmful to human beings and other living things. About 22 million people die from air pollution each year. Breathing polluted air increases the risk of developing lung diseases such as asthma and lung cancer. Breathing bad air also increases the chances of dying from other diseases. Children are most likely to be affected by air pollution. That\u2019s because their lungs are still developing and growing. Children also take in more air for their size than adults do. Some air pollutants damage the environment as well as the health of living things. The type of damage depends on the pollutant. Air pollution can also harm the environment. Final answer : 22 million"
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What substances serve as catalysts in most of the biochemical reactions that take place in organisms?",
+        "correct_answer":"Enzymes are involved in most of the biochemical reactions that take place in organisms. About 4,000 such reactions are known to be catalyzed by enzymes, but the number may be even higher. Enzymes allow reactions to occur at the rate necessary for life. Final answer : enzymes"
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"The formation of an amalgam allows the metal to react with what?",
+        "correct_answer":"The metals of group 13 (Al, Ga, In, and Tl) are all reactive. However, passivation occurs as a tough, hard, thin film of the metal oxide forms upon exposure to air. Disruption of this film may counter the passivation, allowing the metal to react. One way to disrupt the film is to expose the passivated metal to mercury. Some of the metal dissolves in the mercury to form an amalgam, which sheds the protective oxide layer to expose the metal to further reaction. The formation of an amalgam allows the metal to react with air and water. Final answer : air and water"
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"A pulley changes the direction of the force t exerted by the cord without changing its what?",
+        "correct_answer":"automobile axle drives a wheel, which has a much larger diameter than the axle. The MA is less than 1. (c) An ordinary pulley is used to lift a heavy load. The pulley changes the direction of the force T exerted by the cord without changing its magnitude. Hence, this machine has an MA of 1. Final answer : magnitude"
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What is the name of the small bumps that contain taste buds and covers the tongue?",
+        "correct_answer":"Figure 14.3 The Tongue The tongue is covered with small bumps, called papillae, which contain taste buds that are sensitive to chemicals in ingested food or drink. Different types of papillae are found in different regions of the tongue. The taste buds contain specialized gustatory receptor cells that respond to chemical stimuli dissolved in the saliva. These receptor cells activate sensory neurons that are part of the facial and glossopharyngeal nerves. LM \u00d7 1600. (Micrograph provided by the Regents of University of Michigan Medical School \u00a9 2012). Final answer : papillae"
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"In the absence of air resistance, all falling objects accelerate at the same rate due to what force?",
+        "correct_answer":"What if you were to drop a bowling ball and a soccer ball at the same time from the same distance above the ground? The bowling ball has greater mass than the basketball, so the pull of gravity on it is greater. Would it fall to the ground faster? No, the bowling ball and basketball would reach the ground at the same time. The reason? The more massive bowling ball is also harder to move because of its greater mass, so it ends up moving at the same acceleration as the soccer ball. This is true of all falling objects. They all accelerate at the same rate due to gravity, unless air resistance affects one object more than another. For example, a falling leaf is slowed down by air resistance more than a falling acorn because of the leaf\u2019s greater surface area. You can simulate the effect of air resistance on acceleration due to gravity by doing the interactive animation at this URL: http:\/\/www. science-animations. com\/correct_answer-files\/freefall. swf. Final answer : gravity "
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"The ability for a plasma membrane to only allow certain molecules in or out of the cell is referred to as what?",
+        "correct_answer":"The plasma membrane forms a barrier between the cytoplasm inside the cell and the environment outside the cell. It protects and supports the cell and also controls everything that enters and leaves the cell. It allows only certain substances to pass through, while keeping others in or out. The ability to allow only certain molecules in or out of the cell is referred to as selective permeability or semipermeability. To understand how the plasma membrane controls what crosses into or out of the cell, you need to know its composition. Final answer : selective permeability"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"In the presence of oxygen, hydrogen can interact to make what?",
+        "correct_answer":"A pile of leaves slowly rots in the backyard. In the presence of oxygen, hydrogen can interact to make water. Gold can be stretched into very thin wires. FInal answer : water"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What galaxy is our solar system a part of?",
+        "correct_answer":"Compared to Earth, the solar system is a big place. But galaxies are bigger - a lot bigger. A galaxy is a very large group of stars held together by gravity. How enormous a galaxy is and how many stars it contains are impossible for us to really understand. A galaxy contains up to a few billion stars! Our solar system is in the Milky Way Galaxy. It is so large that if our solar system were the size of your fist, the galaxy\u2019s disk would be wider than the entire United States! There are several different types of galaxies, and there are billions of galaxies in the universe. Final answer : milky way"
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"The angle at which light bends when it enters a different medium is known as what?",
+        "correct_answer":"The angle at which light bends when it enters a different medium depends on its change in speed. The greater the change in speed, the greater the angle of refraction is. For example, light refracts more when it passes from air to diamond than it does when it passes from air to water. That\u2019s because the speed of light is slower in diamond than it is in water. Final answer : refraction"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Whether the organism is a bacterium, plant, or animal, all living things access energy by breaking down these?",
+        "correct_answer":"The Energy Cycle Whether the organism is a bacterium, plant, or animal, all living things access energy by breaking down carbohydrate molecules. But if plants make carbohydrate molecules, why would they need to break them down, especially when it has been shown that the gas organisms release as a \u201cwaste product\u201d (CO2) acts as a substrate for the formation of more food in photosynthesis? Remember, living things need energy to perform life functions. In addition, an organism can either make its own food or eat another organism\u2014either way, the food still needs to be broken down. Finally, in the process of breaking down food, called cellular respiration, heterotrophs release needed energy and produce \u201cwaste\u201d in the form of CO2 gas. In nature, there is no such thing as waste. Every single atom of matter and energy is conserved, recycling over and over infinitely. Substances change form or move from one type of molecule to another, but their constituent atoms never disappear (Figure 8.20). CO2 is no more a form of waste than oxygen is wasteful to photosynthesis. Both are byproducts of reactions that move on to other reactions. Photosynthesis absorbs light energy to build carbohydrates in chloroplasts, and aerobic cellular respiration releases energy by using oxygen to metabolize carbohydrates in the cytoplasm and mitochondria. Both processes use electron transport chains to capture the energy necessary to drive other reactions. These two powerhouse processes, photosynthesis and cellular respiration, function in biological, cyclical harmony to allow organisms to access life-sustaining energy that originates millions of miles away in a burning star humans call the sun. Final answer : carbohydrate molecules"
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Increasing the temperature of n2 molecules increases what energy of motion?",
+        "correct_answer":"Increasing the temperature increases the average kinetic energy of the N2molecules. Final answer : kinetic energy"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Which radio frequency should you listen to if you want less noise?",
+        "correct_answer":"FM radio is inherently less subject to noise from stray radio sources than AM radio. The reason is that amplitudes of waves add. So an AM receiver would interpret noise added onto the amplitude of its carrier wave as part of the information. An FM receiver can be made to reject amplitudes other than that of the basic carrier wave and only look for variations in frequency. It is thus easier to reject noise from FM, since noise produces a variation in amplitude. Television is also broadcast on electromagnetic waves. Since the waves must carry a great deal of visual as well as audio information, each channel requires a larger range of frequencies than simple radio transmission. TV channels utilize frequencies in the range of 54 to 88 MHz and 174 to 222 MHz. (The entire FM radio band lies between channels 88 MHz and 174 MHz. ) These TV channels are called VHF (for very high frequency). Other channels called UHF (for ultra high frequency) utilize an even higher frequency range of 470 to 1000 MHz. The TV video signal is AM, while the TV audio is FM. Note that these frequencies are those of free transmission with the user utilizing an old-fashioned roof antenna. Satellite dishes and cable transmission of TV occurs at significantly higher frequencies and is rapidly evolving with the use of the high-definition or HD format. Final answer : fm"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What form of radiation is the energy emitted by the sun?",
+        "correct_answer":"Figure 8.11 The sun emits energy in the form of electromagnetic radiation. This radiation exists at different wavelengths, each of which has its own characteristic energy. All electromagnetic radiation, including visible light, is characterized by its wavelength. Final answer : electromagnetic"
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What is the suns innermost layer called?",
+        "correct_answer":"The core is the Sun's innermost layer. The core is plasma. It has a temperature of around 15 million degrees Celsius (C). Nuclear fusion reactions create the immense temperature. In these reactions, hydrogen atoms fuse to form helium. This releases vast amounts of energy. The energy moves towards the outer layers of the Sun. Energy from the Sun's core powers most of the solar system. Final answer : core"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"A growth spurt requires constant divisions of what?",
+        "correct_answer":"To grow and develop, you must form new cells. Imagine how often your cells must divide during a growth spurt. Growing just an inch requires countless cell divisions. Your body must produce new bone cells, new skin cells, new cells in your blood vessels and so on. Final answer : cells"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What's the term for the gradual progression from simple plants to larger more complex ones in an area?",
+        "correct_answer":"The pioneer species is soon replaced by other populations. Abiotic factors such as soil quality, water, and climate will determine the species that continue the process of succession. Mosses and grasses will be able to grow in the newly created soil. During early succession, plant species like grasses that grow and reproduce quickly will take over the landscape. Over time, these plants improve the soil and a few shrubs can begin to grow. Slowly, the shrubs are replaced by small trees. Small trees then are succeeded by larger trees. Since trees are more successful at competing for resources than shrubs and grasses, a forest may be the end result of primary succession. Final answer : primary succession"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Which cycle tracks the flow of nitrogen through an ecosystem?",
+        "correct_answer":"Mariana Ruiz Villarreal (LadyofHats) for CK-12 Foundation. The nitrogen cycle tracks the flow of nitrogen through an ecosystem . CC BY-NC 3.0. Final answer : nitrogen cycle"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What consequence of a tornado is responsible for most injuries and deaths?",
+        "correct_answer":"A tornado only strikes a small area. But it can destroy everything in its path. Most injuries and deaths from tornadoes are caused by flying debris ( Figure below ). In the United States, an average of 90 people are killed by tornadoes each year. The most violent two percent of tornadoes account for 70% of the deaths by tornadoes. Final answer : flying debris"
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What are the only truly innate behaviors in humans called?",
+        "correct_answer":"All animals have innate behaviors, even human beings. Can you think of human behaviors that do not have to be learned? Chances are, you will have a hard time thinking of any. The only truly innate behaviors in humans are called reflex behaviors . They occur mainly in babies. Like innate behaviors in other animals, reflex behaviors in human babies may help them survive. Final answer : reflexes"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What happens to the density of air as the altitude decreases?",
+        "correct_answer":"The pressure of the earth\u2019s atmosphere, as with any fluid, increases with the height of the column of air. In the case of earth\u2019s atmosphere, there are some complications. The density of the air is not uniform but decreases with altitude. Additionally there is no distinct top surface from which height can be measured. We can, however, calculate the approximate difference in pressure between two altitudes using the equation . The average pressure of the atmosphere at sea level is 1.013 \u00d7 10 5 Pa. This pressure is often expressed as 101.3 kPa. Final answer : increases"
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"How do some animals change their depth?",
+        "correct_answer":"Some animals change their depth by changing their density. Recall that things that are denser than their surroundings sink while those that are less dense than their surroundings float. Most fish have a swim bladder, a special sac that is filled with gases from their blood. When the fish's swim bladder is full, it is less dense than the surrounding water and the fish will rise towards the surface. Another property of water that affects lakes is the unique changes in density during phase changes. The density of most substances increases when a liquid becomes a solid. This is not so for water: Solid water is actually less dense than liquid water. It is for this reason that ice floats. Can you imagine a world where ice sank? Lakes would freeze from the bottom up, killing many fish. Frozen water in the Polar Regions would sink and change the ocean levels. The fact that ice floats is essential for the survival of many aquatic ecosystems and ultimately life on Earth. Besides the changes in density, there are other ways in which the phase changes of water have significant impacts. When water is trapped in small cracks in rocks, it will expand as it freezes and break up the rock causing weathering. The transpiration (evaporation) of water from a good-sized tree can move 1800 liters of water out of the ground in a single day. Sublimation, the phase change between solid and gas, is responsible for the formation of frost. As you can see, water has many special properties that make its role in nature unique. It is considered the \"universal solvent\u201d because its bipolar molecule enables it to dissolve a wide variety of substances. Water is the only substance that occurs naturally in all three states; solid, liquid, and gas. Water is truly a miracle for life!. Final answer : by changing their density"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What phenomenon is crowding out other species and making all the other causes of extinction worse?",
+        "correct_answer":"Human overpopulation, which is crowding out other species. It also makes all the other causes of extinction worse. Final answer: human overpopulation"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Internal and external forms of what life process occur as simple diffusion due to a partial pressure gradient?",
+        "correct_answer":"Internal Respiration Internal respiration is gas exchange that occurs at the level of body tissues (Figure 22.23). Similar to external respiration, internal respiration also occurs as simple diffusion due to a partial pressure gradient. However, the partial pressure gradients are opposite of those present at the respiratory membrane. The partial pressure of oxygen in tissues is low, about 40 mm Hg, because oxygen is continuously used for cellular respiration. In contrast, the partial pressure of oxygen in the blood is about 100 mm Hg. This creates a pressure gradient that causes oxygen to dissociate from hemoglobin, diffuse out of the blood, cross the interstitial space, and enter the tissue. Hemoglobin that has little oxygen bound to it loses much of its brightness, so that blood returning to the heart is more burgundy in color. Considering that cellular respiration continuously produces carbon dioxide, the partial pressure of carbon dioxide is lower in the blood than it is in the tissue, causing carbon dioxide to diffuse out of the tissue, cross the interstitial fluid, and enter the blood. It is then carried back to the lungs either bound to hemoglobin, dissolved in plasma, or in a converted form. By the time blood returns to the heart, the partial pressure of oxygen has returned to about 40 mm Hg, and the partial pressure. Final answer : respiration"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"The fossil record shows that this type of event is followed by the evolution of new species to fill the habitats where old species lived?",
+        "correct_answer":"After each mass extinction, new species evolve to fill the habitats where old species lived. This is well documented in the fossil record. Final Answer : mass extinction"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Soluble minerals and clays accumulate in what soil layer, allowing it to hold more water?",
+        "correct_answer":"Below the topsoil is the \u201cB\u201d horizon. This is also called the subsoil . Soluble minerals and clays accumulate in the subsoil. Because it has less organic material, this layer is lighter brown in color than topsoil. It also holds more water due to the presence of iron and clay. There is less organic material in this layer. Final Answer : subsoil"
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What is the common word for potential difference in a circuit?",
+        "correct_answer":"Conceptual Questions 19.1 Electric Potential Energy: Potential Difference 1. Voltage is the common word for potential difference. Which term is more descriptive, voltage or potential difference? 2. If the voltage between two points is zero, can a test charge be moved between them with zero net work being done? Can this necessarily be done without exerting a force? Explain. What is the relationship between voltage and energy? More precisely, what is the relationship between potential difference and electric potential energy? 4. Voltages are always measured between two points. Why? 5. How are units of volts and electron volts related? How do they differ?. Final answer : voltage"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"How many chambers does the stomach of a crocodile have?",
+        "correct_answer":"The crocodilian digestive system is highly adapted to their lifestyle. Crocodilians are known to swallow stones, known as gastroliths , which help digest their prey. The crocodilian stomach is divided into two chambers. The first is powerful and muscular. The other stomach is the most acidic digestive system of any animal. It can digest mostly everything from their prey, including bones, feathers, and horns!. Final answer : two"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"When populations get close to the carrying capacity, what happens to growth?",
+        "correct_answer":"Populations usually grow bigger when they have what they need. How fast they grow depends on birth and death rates. They grow more slowly as they get close to the carrying capacity. This is the biggest population the environment can correct_answer. Final answer : slows"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Although air can transfer heat rapidly by convection, it is a poor conductor and thus a good what?",
+        "correct_answer":"Although air can transfer heat rapidly by convection, it is a poor conductor and thus a good insulator. The amount of available space for airflow determines whether air acts as an insulator or conductor. The space between the inside and outside walls of a house, for example, is about 9 cm (3.5 in) \u2014large enough for convection to work effectively. The addition of wall insulation prevents airflow, so heat loss (or gain) is decreased. Similarly, the gap between the two panes of a double-paned window is about 1 cm, which prevents convection and takes advantage of air\u2019s low conductivity to prevent greater loss. Fur, fiber, and fiberglass also take advantage of the low conductivity of air by trapping it in spaces too small to correct_answer convection, as shown in the figure. Fur and feathers are lightweight and thus ideal for the protection of animals. Final answer : insulator "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What man-made devices in space are used to observe the earth's surface?",
+        "correct_answer":"Observations can happen on many scales. You can use a microscope to observe tiny things. You can use a telescope to observe distant things in space. To learn about the effects of climate change, you could observe Earth's surface. How would you make observations of Earth's surface? You could do this from the land surface or from space. Many important observations are made by orbiting satellites. These satellites have a bird's eye view of how the planet is changing ( Figure below ). Final answer : satellites"
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Carboxylic acids are weak acids, meaning they are not 100% ionized in what?",
+        "correct_answer":"Carboxylic acids are weak acids (see the chapter on acids and bases), meaning they are not 100% ionized in water. Generally only about 1% of the molecules of a carboxylic acid dissolved in water are ionized at any given time. The remaining molecules are undissociated in solution. We prepare carboxylic acids by the oxidation of aldehydes or alcohols whose \u2013OH functional group is located on the carbon atom at the end of the chain of carbon atoms in the alcohol:. Final answer : water"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"An endocrine disease usually involves the secretion of too much or not enough of what?",
+        "correct_answer":"Diseases of the endocrine system are relatively common. An endocrine disease usually involves the secretion of too much or not enough hormone. When too much hormone is secreted, it is called hypersecretion. When not enough hormone is secreted, it is called hyposecretion. Final answer : hormone"
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"In experiments with garden peas, austrian monk gregor mendel described the basic patterns of what?",
+        "correct_answer":"For thousands of years, humans have understood that characteristics such as eye color, hair color, or even flower color are passed from one generation to the next. The passing of characteristics from parent to offspring is called heredity . Humans have long been interested in understanding heredity. Many hereditary mechanisms were developed by scholars but were not properly tested or quantified. The scientific study of genetics did not begin until the late 19 th century. In experiments with garden peas, Austrian monk Gregor Mendel described the basic patterns of inheritance. Keep in mind that while we know about DNA and its role as the genetic material, Mendel did not know of the existence of DNA. Nor did he understand the concept of the chromosome or the process of meiosis, and yet, he was still able to correctly describe basic inheritance patterns. Final answer : inheritance"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Nutrition and diet affect your metabolism. more energy is required to break down fats and proteins than this?",
+        "correct_answer":"24.7 Nutrition and Diet Nutrition and diet affect your metabolism. More energy is required to break down fats and proteins than carbohydrates; however, all excess calories that are ingested will be stored as fat in the body. On average, a person requires 1500 to 2000 calories for normal daily activity, although routine exercise will increase that amount. If you ingest more than that, the remainder is stored for later use. Conversely, if you ingest less than that, the energy stores in your body will be depleted. Both the quantity and quality of the food you eat affect your metabolism and can affect your overall health. Eating too much or too little can result in serious medical conditions, including cardiovascular disease, cancer, and diabetes. Vitamins and minerals are essential parts of the diet. They are needed for the proper function of metabolic pathways in the body. Vitamins are not stored in the body, so they must be obtained from the diet or synthesized from precursors available in the diet. Minerals are also obtained from the diet, but they are also stored, primarily in skeletal tissues. Final answer : carbohydrates"
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What are unsaturated hydrocarbons with at least one double bond between carbon atoms called?",
+        "correct_answer":"Alkenes are unsaturated hydrocarbons with at least one double bond between carbon atoms. Final answer : alkenes"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What is the opposite of melting?",
+        "correct_answer":"All of the changes of state that occur between solid, liquid and gas are summarized in the diagram in the figure below. Freezing is the opposite of melting and both represent the equilibrium between the solid and liquid states. Evaporation occurs when a liquid turns to a gas. Condensation is the opposite of vaporization and both represent the equilibrium between the liquid and gas states. Deposition is the opposite of sublimation and both represent the equilibrium between the solid and gas states. Final answer : freezing"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"A unique characteristic of mammals is the ability to chew, this happens by the temporalis and the masseter allowing what?",
+        "correct_answer":"The adductor muscle that closes the jaw is composed of two muscles in mammals: the temporalis and the masseter. These allow side-to-side movement of the jaw, making chewing possible, which is unique to mammals. Most mammals have heterodont teeth, meaning that they have different types and shapes of teeth rather than just one type and shape of tooth. Most mammals are diphyodonts, meaning that they have two sets of teeth in their lifetime: deciduous or \u201cbaby\u201d teeth, and permanent teeth. Other vertebrates are polyphyodonts, that is, their teeth are replaced throughout their entire life. Mammals, like birds, possess a four-chambered heart. Mammals also have a specialized group of cardiac fibers located in the walls of their right atrium called the sinoatrial node, or pacemaker, which determines the rate at which the heart beats. Mammalian erythrocytes (red blood cells) do not have nuclei, whereas the erythrocytes of other vertebrates are nucleated. The kidneys of mammals have a portion of the nephron called the loop of Henle or nephritic loop, which allows mammals to produce urine with a high concentration of solutes, higher than that of the blood. Mammals lack a renal portal system, which is a system of veins that moves blood from the hind or lower limbs and region of the tail to the kidneys. Renal portal systems are present in all other vertebrates except jawless fishes. A urinary bladder is present in all mammals. Mammalian brains have certain characteristics that differ from other vertebrates. In some, but not all mammals, the cerebral cortex, the outermost part of the cerebrum, is highly folded, allowing for a greater surface area than is possible with a smooth cortex. The optic lobes, located in the midbrain, are divided into two parts in mammals, whereas other vertebrates. Final answer : side-to-side movement"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Most of the pathogens that cause stis enter the body through mucous membranes of which organs?",
+        "correct_answer":"Most of the pathogens that cause STIs enter the body through mucous membranes of the reproductive organs. All sexual behaviors that involve contact between mucous membranes put a person at risk for infection. This includes vaginal, anal, and oral sexual behaviors. Many STIs can also be transmitted through body fluids such as blood, semen, and breast milk. Therefore, behaviors such as sharing injection or tattoo needles is another way these STIs can spread. Final answer : reproductive organs "
+    },
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Sexual reproduction involves haploid gametes and produces a diploid zygote through what process?",
+        "correct_answer":"Sexual reproduction involves haploid gametes and produces a diploid zygote through fertilization. Final answer: Fertilization "
+    },
+
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What percentage of men suffer from some form of erectile dysfunction by age 40?",
+        "correct_answer":"Male Reproductive System Erectile dysfunction (ED) is a condition in which a man has difficulty either initiating or maintaining an erection. The combined prevalence of minimal, moderate, and complete ED is approximately 40 percent in men at age 40, and reaches nearly 70 percent by 70 years of age. In addition to aging, ED is associated with diabetes, vascular disease, psychiatric disorders, prostate disorders, the use of some drugs such as certain antidepressants, and problems with the testes resulting in low testosterone concentrations. These physical and emotional conditions can lead to interruptions in the vasodilation pathway and result in an inability to achieve an erection. Recall that the release of NO induces relaxation of the smooth muscles that surround the penile arteries, leading to the vasodilation necessary to achieve an erection. To reverse the process of vasodilation, an enzyme called phosphodiesterase (PDE) degrades a key component of the NO signaling pathway called cGMP. There are several different forms of this enzyme, and PDE type 5 is the type of PDE found in the tissues of the penis. Scientists discovered that inhibiting PDE5 increases blood flow, and allows vasodilation of the penis to occur. PDEs and the vasodilation signaling pathway are found in the vasculature in other parts of the body. In the 1990s, clinical trials of a PDE5 inhibitor called sildenafil were initiated to treat hypertension and angina pectoris (chest pain caused by poor blood flow through the heart). The trial showed that the drug was not effective at treating heart conditions, but many men experienced erection and priapism (erection lasting longer than 4 hours). Because of this, a clinical trial was started to investigate the ability of sildenafil to promote erections in men suffering from ED. In 1998, the FDA approved the drug, marketed as Viagra\u00ae. Since approval of the drug, sildenafil and similar PDE inhibitors now generate over a billion dollars a year in sales, and are reported to be effective in treating approximately 70 to 85 percent of cases of ED. Importantly, men with health problems\u2014especially those with cardiac disease taking nitrates\u2014should avoid Viagra or talk to their physician to find out if they are a candidate for the use of this drug, as deaths have been reported for at-risk users. Final answer : approximately 40 percent"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What secures together immovable joints and prevents them from moving?",
+        "correct_answer":"Immovable joints allow no movement because the bones at these joints are held securely together by dense collagen . The bones of the skull are connected by immovable joints. Final answer : dense collagen"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Transform faults are the site of massive what?",
+        "correct_answer":"Transform faults are the site of massive earthquakes. Final answer : earthquakes"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"When water goes above and below its freezing point, what rock-breaking phenomenon is common?",
+        "correct_answer":"Rocks can break apart into smaller pieces in many ways. Ice wedging is common where water goes above and below its freezing point ( Figure below ). This can happen in winter in the mid-latitudes or in colder climates in summer. Ice wedging is common in mountainous regions like the Sierra Nevada pictured above. Final answer : ice wedging"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What type of reactions form compounds?",
+        "correct_answer":"A compound is a unique substance that forms when two or more elements combine chemically. Compounds form as a result of chemical reactions. The elements in compounds are held together by chemical bonds. A chemical bond is a force of attraction between atoms or ions that share or transfer valence electrons. For a video introduction to compounds, go to this URL: http:\/\/www. youtube. com\/watch?v=-HjMoTthEZ0 . Final answer : chemical reactions"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Millions of years ago, plants used energy from the sun to form what?",
+        "correct_answer":"Fossil fuels include coal, oil, and natural gas. Fossil fuels are the greatest energy source for modern society. Millions of years ago, plants used energy from the Sun to form carbon compounds. These compounds were later transformed into coal, oil, or natural gas. Fossil fuels take millions of years to form. For this reason, they are non-renewable. We will use most fossil fuels up in a matter of decades. Burning fossil fuels releases large amounts of pollution. The most important of these may be the greenhouse gas, carbon dioxide. Final answer : carbon compounds"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Food chewed evenly during mastication moisten and lubricate the lining of the mouth and this?",
+        "correct_answer":"Food is chewed evenly during mastication Moisten and lubricate the lining of the mouth and pharynx. Final answer : pharynx"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Photosynthesis is initiated by what hitting plants?",
+        "correct_answer":" Every split second that sunlight hits that leaf, photosynthesis is initiated, bringing energy into the ecosystem. It could be said that this is one of the most important - if not the absolutely most important - biochemical reactions. And it all starts with the leaf.  Final answer : sunlight"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"In which stage does the chromatin condense into chromosomes?",
+        "correct_answer":"In prophase II, once again the nucleolus disappears and the nucleus breaks down. The chromatin condenses into chromosomes. The spindle begins to reform as the centrioles move to opposite sides of the cell. Final answer : prophase ii"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What consists of a nitrogen atom bonded to some combination of carbons and hydrogens?",
+        "correct_answer":"An amine consists of a nitrogen atom bonded to some combination of carbons and hydrogens. Final answer : an anime"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What is the upper-most atmosphere known as?",
+        "correct_answer":"In prophase II, once again the nucleolus disappears and the nucleus breaks down. The chromatin condenses into chromosomes. The spindle begins to reform as the centrioles move to opposite sides of the cell. Final answer : prophase ii"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"Large viruses began as what type of cells inside bigger host cells?",
+        "correct_answer":"Large viruses were once parasitic cells inside bigger host cells. Over time, genes needed to survive and reproduce outside host cells were lost. Final answer :parasitic "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What type of diseases do antibiotics not affect?",
+        "correct_answer":"Viruses are not affected by antibiotics. Several viral diseases can be treated with antiviral drugs or prevented with vaccines. Final answer : viruses "
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"How do reptiles typically reproduce?",
+        "correct_answer":"Reptiles typically reproduce sexually and lay eggs. Final answer : sexually"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What can protons and neutrons be broken down into?",
+        "correct_answer":"Today, scientists think that electrons truly are fundamental particles that cannot be broken down into smaller, simpler particles. They are a type of fundamental particles called leptons. Protons and neutrons, on the other hand, are no longer thought to be fundamental particles. Instead, they are now thought to consist of smaller, simpler particles of matter called quarks. Scientists theorize that leptons and quarks are held together by yet another type of fundamental particles called bosons. All three types of fundamental particles—leptons, quarks, and bosons—are described below. The following Figure below shows the variety of particles of each type. Final answer : quarks"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What part of the brain is divided from front to back into the left and right hemispheres?",
+        "correct_answer":"The cerebrum is divided down the middle from the front to the back of the head. The two halves of the cerebrum are called the right and left hemispheres. The two hemispheres are very similar but not identical. They are connected to each other by a thick bundle of axons deep within the brain. These axons allow the two hemispheres to communicate with each other. Did you know that the right hemisphere of the cerebrum controls the left side of the body, and vice versa? This can happen because of the connections between the two hemispheres. Final answer : cerebrum"
+    },
+
+    {
+        "instruction":"You are a scientist. I will provide a question, and you will respond with the result based on your scientific knowledge. Answer the question using the provided context. If the question cannot be answered with the given information, respond with 'I don't know.",
+        "question":"What remains a constant of radioactive substance over time?",
+        "correct_answer":"The rate of decay of a radioactive substance is constant over time. Final answer : rate of decay"
+    }
+
+]
